@@ -1,4 +1,4 @@
-# MOSDAC AI Chatbot - Complete Implementation
+# MOSDAC AI Chatbot 
 
 A comprehensive AI-powered chatbot for MOSDAC (Meteorological & Oceanographic Satellite Data Archival Centre) that provides intelligent access to meteorological and oceanographic data through natural language queries.
 
@@ -256,14 +256,7 @@ docker-compose logs -f
 - **Architecture Guide**: System design and component interaction
 - **Deployment Guide**: Production deployment best practices
 
-## 🤝 **Contributing**
 
-### **Development Workflow**
-1. Fork the repository
-2. Create feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit changes (`git commit -m 'Add amazing feature'`)
-4. Push to branch (`git push origin feature/amazing-feature`)
-5. Open Pull Request
 
 ### **Code Standards**
 - **Python**: Black formatting, flake8 linting
@@ -275,12 +268,6 @@ docker-compose logs -f
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 **Acknowledgments**
-
-- **MOSDAC Team** - Domain expertise and data access
-- **ISRO** - Satellite data and mission information
-- **Open Source Community** - Tools and libraries
-- **Research Institutions** - Validation and feedback
 
 ---
 
@@ -296,5 +283,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ✅ **API Documentation** - Interactive Swagger/OpenAPI docs  
 ✅ **Testing Suite** - Unit, integration, and load tests  
 ✅ **Monitoring** - Health checks and performance metrics  
-
-**Ready for production deployment with enterprise-grade features!**
